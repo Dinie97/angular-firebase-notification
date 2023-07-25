@@ -2,6 +2,7 @@
 
 https://github.com/Dinie97/angular-firebase-notification/assets/51571197/373486e5-6bba-46a5-8488-7f2d6e5d5b4e
 
+## Add your own Firebase credential in Environment and firebase-messaging-sw.js file
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
 
@@ -11,7 +12,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `ng generate component component-name to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
